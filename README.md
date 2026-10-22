@@ -1,10 +1,8 @@
 # owezero-legal
 
-Public hosting (GitHub Pages) for the OweZero Android app's privacy policy:
+The app was renamed **SettleZero**. Its privacy policy is now published from
+[settlezero-legal](https://github.com/Yatinpatil/settlezero-legal) at
+https://yatinpatil.github.io/settlezero-legal/privacy-policy.html.
 
-- [Privacy Policy](https://yatinpatil.github.io/owezero-legal/privacy-policy.html)
-
-**These are published copies.** The source of truth is `docs/legal/` in the
-app's own (private) repository. Edit there, then copy the HTML files here.
-The app and the Play Store listing link to the URL above — do not rename the
-file or this repository.
+The pages here only redirect there, so links to the old address keep working.
+This repository can be deleted once nothing points at the old address any more.
